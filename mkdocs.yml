@@ -1,0 +1,26 @@
+site_name: Engenharia e Ambiente
+repo_url: https://github.com/th-org/AMB
+
+nav: 
+  - Home: index.md
+
+theme: 
+  name: material
+  font:
+    text: IBM Plex Serif
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
+  palette: 
+    - scheme: light
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo escuro
+
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo claro
