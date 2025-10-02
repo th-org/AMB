@@ -2,7 +2,7 @@ site_name: Engenharia e Ambiente
 repo_url: https://github.com/th-org/AMB
 
 nav: 
-  - Home: index.md
+  - Cronograma de Entregas: index.md
 
 theme: 
   name: material
