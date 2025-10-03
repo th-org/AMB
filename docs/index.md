@@ -87,23 +87,23 @@ hide:
             <td>Criação da estrutura que conectará todos os objetivos no documento final.</td>
         </tr>
         <tr>
-            <td><strong>FRENTE 1:</strong> Geopolítica e Mercado</td>
+            <td><strong>FRENTE 0:</strong> Geopolítica e Mercado</td>
             <td>30/10 a 12/11</td>
             <td>Thales e Victor</td>
             <td><strong>1 e 2</strong></td>
             <td>Entregas 1 (Mapas de jazidas) e 2 (Dados de demanda e estimativa).</td>
         </tr>
         <tr>
-            <td><strong>FRENTE 2:</strong> Processos e Engenharia</td>
+            <td><strong>FRENTE 1:</strong> Processos e Engenharia</td>
             <td>30/10 a 12/11</td>
-            <td>Membros (3)</td>
+            <td>Matheus, Pedro Henrique e Brenno</td>
             <td><strong>3 e 8</strong></td>
             <td>Entregas 3 (Fluxograma de extração) e 8 (Fluxograma de fabricação).</td>
         </tr>
         <tr>
-            <td><strong>FRENTE 3:</strong> Cadeia Produtiva e Aplicação</td>
+            <td><strong>FRENTE 2:</strong> Cadeia Produtiva e Aplicação</td>
             <td>30/10 a 12/11</td>
-            <td>Membros (3)</td>
+            <td>Samuel, João Pedro e Erick</td>
             <td><strong>6 e 7</strong></td>
             <td>Entregas 6 (Identificação do componente) e 7 (Estrutura da cadeia produtiva).</td>
         </tr>
@@ -115,9 +115,9 @@ hide:
             <td>Revisão do material preliminar das Frentes 1, 2 e 3.</td>
         </tr>
         <tr>
-            <td><strong>FRENTE 4:</strong> Gestão e Impactos Ambientais</td>
+            <td><strong>FRENTE 3:</strong> Gestão e Impactos Ambientais</td>
             <td>30/10 a 15/11</td>
-            <td>Membros (3)</td>
+            <td>Gabriela, Maria de Fátima e Thuiana</td>
             <td><strong>4, 5, 9 e 10</strong></td>
             <td>Entregas 4, 5, 9 e 10 (Quadros sobre riscos, impactos e instrumentos de gestão).</td>
         </tr>
@@ -167,7 +167,7 @@ hide:
         <tr>
             <td>Elaboração dos Slides da Apresentação</td>
             <td>27/11 a 29/11</td>
-            <td>Membros (3)</td>
+            <td>Victor, </td>
             <td><strong>Todos (1-10)</strong></td>
             <td>A apresentação sintetiza os principais pontos de todos os objetivos.</td>
         </tr>
